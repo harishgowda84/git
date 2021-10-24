@@ -1,0 +1,61 @@
+IAM
+EC2
+VPC
+Lambda
+AWS Elastic Container Service
+AWS BeanStalk
+AWS S3
+DynamoDB
+RDS
+Redshift
+Amazon SNS
+Amazon SQS
+Amazon simple workflow
+API Gateway
+AWS Management tools
+AWS Cloudformation
+X-ray
+CodeCmmit
+CodeBuild
+CodeDeploy
+CodePipeline
+CodeStar
+
+
+Large time:
+IAM
+EC2
+VPC
+Lambda
+RDS
+S3
+
+
+
+Low time:
+AWS Elastic Container Service
+AWS BeanStalk
+DynamoDB
+Redshift
+Kinesis
+Amazon SNS
+Amazon SQS
+Amazon simple workflow
+API Gateway
+AWS Management tools
+AWS Cloudformation
+X-ray
+CodeCmmit
+CodeBuild
+CodeDeploy
+CodePipeline
+CodeStar
+
+
+Notes for redshift
+
+
+
+
+
+
