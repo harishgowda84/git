@@ -53,6 +53,7 @@ CodeStar
 
 
 Notes for redshift
+local change
 
 
 
