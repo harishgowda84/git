@@ -53,7 +53,10 @@ CodeStar
 
 
 Notes for redshift
+
 local change
+remote change
+
 
 
 
